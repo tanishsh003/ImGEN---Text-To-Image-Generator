@@ -1,0 +1,11 @@
+{
+    "typescript.preferences.preferTypeOnlyAutoImports": true,
+    "typescript.preferences.includePackageJsonAutoImports": "on",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "javascript.preferGoToSourceDefinition": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "files.autoSaveWhenNoErrors": true
+}
